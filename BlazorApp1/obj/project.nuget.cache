@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJaMuBHzNE0zBXzoR2InyNj+s1qx/Fhp0A1OCU6GX/vX/OX31ZCDctBMxXaddNkmCFxNvBPsuHTwRU6JMr9xiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deniz.sanli\\RiderProjects\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniz.sanli\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\deniz.sanli\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\deniz.sanli\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\deniz.sanli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
